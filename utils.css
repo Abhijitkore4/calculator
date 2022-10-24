@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    FONT-SIZE: xxx-large;
+    font-weight: 200;
+    color: orangered;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
